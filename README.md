@@ -55,8 +55,8 @@ Response:
 
 ## Order Endpoints (Protected)
 
-POST	```/api/orders``` : 	Create a new order
-GET	```/api/orders```	  :   Get all orders for logged-in user
-GET	```/api/orders/{id}``` :	Get a single order
-PUT	```/api/orders/{id}``` :	Update order
-DELETE	```/api/orders/{id}``` :	Delete order
+- POST	```/api/orders``` : 	Create a new order
+- GET	```/api/orders```	  :   Get all orders for logged-in user
+- GET	```/api/orders/{id}``` :	Get a single order
+- PUT	```/api/orders/{id}``` :	Update order
+- DELETE	```/api/orders/{id}``` :	Delete order

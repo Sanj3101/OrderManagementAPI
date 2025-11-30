@@ -1,5 +1,7 @@
 # Order Management API (ASP.NET Core 8 + Identity + JWT + SQL Server)
 
+screenshot requirements at : [Click here to view all screenshots](./Assignment3_Screenshots)
+
 ## Project Structure
 
 ```text
